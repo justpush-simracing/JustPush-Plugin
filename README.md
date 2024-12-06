@@ -2,4 +2,4 @@
 
 ![Logo](docs/justpush_logo.jpg)
 
-# JustPush! SimRacing - Stream Deck Plugin
+# JustPush! SimRacing proudly presents a Stream Deck Plugin for ACC
