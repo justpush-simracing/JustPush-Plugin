@@ -1,3 +1,4 @@
-# JustPush-Plugin
+# JustPush! SimRacing - Stream Deck Plugin
 
-#helloworld
+# (docs/justpush_logo.jpg)
+
