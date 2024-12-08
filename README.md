@@ -32,7 +32,7 @@ Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure butt
 #### * **Don't Panic — Just Push!** *
 
 ### Plugin Highlights:
-- Active **Auto Fuel** and **Auto Pressure** buttons for seamless, perfect pitstops every time. 🤖🔧⛽
+- Active **Auto Fuel** and **Auto Pressure** buttons for effortless, perfect pitstops every time. 🤖🔧⛽
 - First ever fully integrated **Flag Box**, dynamically rendering button icon backgrounds. 🏁
 - Zero-config, customizable, preloaded profiles and buttons with stunning icons ⭐
 - Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD at lightning speeds. ⏱️
