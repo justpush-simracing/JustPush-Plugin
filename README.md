@@ -29,9 +29,6 @@ Transform your Stream Deck into the ultimate sim racing button box for ACC!
 
 Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure buttons, manage pitstop fueling and pressure adjustments automatically—whether in the garage or on track—all at the push of a button. 
 
-<video src="docs/yellow_flags.mp4" autoplay loop muted playsinline>
-</video>
-
 #### * **Don't Panic — Just Push!** *
 
 ### Plugin Highlights:
@@ -40,6 +37,8 @@ Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure butt
 - Fully customizable, preloaded profiles and buttons with stunning icons, matching game states with no configuration required. ⭐
 - Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD. ⏲️
 - Under active development with community input, so you can help shape its future! 🥇
+
+![Yellow Flags Example](docs/yellow_flags.gif)
 
 ## How to Get it
 
