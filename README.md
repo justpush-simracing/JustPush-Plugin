@@ -53,7 +53,7 @@ Unlock additional features by joining the [JustPush! SimRacing Discord](https://
 ## Installation
 Installing the JustPush! plugin and profiles is a breeze with Stream Deck's software.
 
-1. ~Install from Elgao MarketPlace (TBD)~
+1. ~Install from Elgato MarketPlace (TBD)~
    Download the `com.justpush.streamDeckPlugin` plugin file; double-click it to install plugin
 3. Select `Install Profiles` to install the profiles, otherwise select `Cancel` to only install plugin
 4. Set hotkeys and configure buttons (see wiki)
