@@ -91,7 +91,7 @@ Core features are available for free and are consistent across all tiers.
   -  A community-based repository for free profiles that use JustPush! buttons
   
 ### Upgraded Tier
-Upgraded features are available for a modest $1/month, providing an entry point into premium functionality with some limitations.
+Upgraded features are available for a modest €1/month, providing an entry point into premium functionality with some limitations.
 
 - Fully color-customizable icons (borders, activation backgrounds)
 - Smart `open/close profile` buttons for effortless track and pitstop profile navigation
@@ -102,7 +102,7 @@ Upgraded features are available for a modest $1/month, providing an entry point 
   - Access to more frequently released stable builds than Core tier
 
 ### Unlocked Tier
-Unlocked features include everything, now and forever into the future, providing complete access to the plugin’s capabilities for $3/month.
+Unlocked features include everything, now and forever into the future, providing complete access to the plugin’s capabilities for €3/month.
 
 - **Fully unlocked Active Buttons**, displaying and applying changes both in garage and on track.
 - **Integrated FlagBox**, which dynamnically renders the flag colors UNDER the icons—a first for Stream Deck!
