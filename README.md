@@ -66,11 +66,11 @@ Features can be categorized by tier. The plugin versions are offered at three (3
 
 |Tier Name | Cost |
 |-----:|-----------|
-|[Core](#core-features) | FREE |
-|[Upgraded](#upgraded-features)| €1/mo    |
-|[Unlocked](#unlocked-features)| €3/mo       |
+|[Core](#core-tier) | FREE |
+|[Upgraded](#upgraded-tier)| €1/mo    |
+|[Unlocked](#unlocked-tier)| €3/mo       |
 
-### Core Features
+### Core Tier
 Core features are available for free and are consistent across all tiers. 
 
 - Preloaded and user-configurable track and pitstop profiles, automatically installed with plugin
@@ -90,7 +90,7 @@ Core features are available for free and are consistent across all tiers.
   -  General support from the developer and community
   -  A community-based repository for free profiles that use JustPush! buttons
   
-### Upgraded Features
+### Upgraded Tier
 Upgraded features are available for a modest $1/month, providing an entry point into premium functionality with some limitations.
 
 - Fully color-customizable icons (borders, activation backgrounds)
@@ -101,7 +101,7 @@ Upgraded features are available for a modest $1/month, providing an entry point 
   - Prioritized support from the developer and member community
   - Access to more frequently released stable builds than Core tier
 
-### Unlocked Features
+### Unlocked Tier
 Unlocked features include everything, now and forever into the future, providing complete access to the plugin’s capabilities for $3/month.
 
 - **Fully unlocked Active Buttons**, displaying and applying changes both in garage and on track.
