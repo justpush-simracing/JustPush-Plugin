@@ -18,7 +18,7 @@ Watch the video of Active Buttons in action to win P1 in the pits!
 - [Installation](#installation)
 - [Features](#features)
     - [Core Features](#core-features)
-    - [Enhanced Features](#enhanced-features)
+    - [Upgraded Features](#upgraded-features)
     - [Unlocked Features](#unlocked-features)
 - [Support and Community](#support-and-community)
 - [Roadmap](#roadmap)
@@ -47,7 +47,7 @@ Download the free version from the ~**Elgato Marketplace** (TBD)~ or in GitHub [
 
 **Premium Versions** <br>
 Unlock additional features by joining the [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) and subscribe to [JustPush! Patreon](https://www.patreon.com/c/justpushsimracing/membership) to access member channels:
-- **Enhanced Tier**: €1/month
+- **Upgraded Tier**: €1/month
 - **Unlocked Tier**: €3/month
 
 ## Installation
@@ -67,7 +67,7 @@ Features can be categorized by tier. The plugin versions are offered at three (3
 |Tier Name | Cost |
 |-----:|-----------|
 |[Core](#core-features) | FREE |
-|[Enhanced](#enhanced-features)| €1/mo    |
+|[Upgraded](#upgraded-features)| €1/mo    |
 |[Unlocked](#unlocked-features)| €3/mo       |
 
 ### Core Features
@@ -90,14 +90,14 @@ Core features are available for free and are consistent across all tiers.
   -  General support from the developer and community
   -  A community-based repository for free profiles that use JustPush! buttons
   
-### Enhanced Features
-Enhanced features are available for a modest $1/month, providing an entry point into premium functionality with some limitations.
+### Upgraded Features
+Upgraded features are available for a modest $1/month, providing an entry point into premium functionality with some limitations.
 
 - Fully color-customizable icons (borders, activation backgrounds)
 - Smart `open/close profile` buttons for effortless track and pitstop profile navigation
 - Limited access to Active Buttons
   - Auto Fuel and Auto Pressure buttons will automatically calculate and _display_ recommendations while on track, but they can only be _applied_ in garage (setup menu).
-- Membership to the Enhanced tier grants access to the Member channel in [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) for:
+- Membership to the Upgraded tier grants access to the Member channel in [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) for:
   - Prioritized support from the developer and member community
   - Access to more frequently released stable builds than Core tier
 
