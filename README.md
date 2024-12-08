@@ -10,7 +10,7 @@ _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRa
 #### Experience the thrill of **Active Buttons**... unlike anything you've ever experienced in ACC... 
 Watch the video of Active Buttons in action to win P1 in the pits! 
 
-[![JustPush! Promo](https://img.youtube.com/vi/J7OPt_Kinq0/0.jpg)](https://www.youtube.com/watch?v=J7OPt_Kinq0)
+[![JustPush! Promo](docs/promo_video.png)](https://www.youtube.com/watch?v=J7OPt_Kinq0)
 
 ## Navigation
 - [Introduction](#introduction)
