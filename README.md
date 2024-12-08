@@ -34,9 +34,9 @@ Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure butt
 ### Plugin Highlights:
 - Active **Auto Fuel** and **Auto Pressure** buttons for seamless, perfect pitstops every time. 🤖🔧⛽
 - First ever fully integrated **Flag Box**, dynamically rendering button icon backgrounds. 🏁
-- Fully customizable, preloaded profiles and buttons with stunning icons, matching game states with no configuration required. ⭐
+- Zero-config, customizable, preloaded profiles and buttons with stunning icons ⭐
 - Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD at lightning speeds. ⏱️
-- Under active development with community input, so you can help shape its future! 🚀
+- Under constant development with community input, so you can help shape the future! 🚀
 
 ![Yellow Flags Example](docs/yellow_flags.gif)
 
