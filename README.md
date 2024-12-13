@@ -5,12 +5,29 @@
 # JustPush! Plugin for Stream Deck
 _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRacing_
 
-**A revolutionary new Stream deck plugin that will forever change the way you use your sim racing button box!**
+**A revolutionary new plugin that will forever change the way you use your Stream Deck as a sim racing button box!**
 
-#### Experience the thrill of **Active Buttons**... unlike anything you've ever experienced in ACC... 
+#### Experience the thrill of perfect, effortless setups and pitstops with **Active Buttons** as your race engineer... 
+
+![Active Buttons](docs/active_buttons_config2.png)
+
 Watch the video of Active Buttons in action to win P1 in the pits! 
 
 [![JustPush! Promo](docs/promo_video.png)](https://www.youtube.com/watch?v=J7OPt_Kinq0)
+
+But wait, there's more! A Stream Deck first--fully icon-integrated Flag Box! 
+
+Stunning start up sequences...
+
+![Start Up](docs/startup.gif)
+
+All race flags with no information loss...
+
+![Race flags](docs/blue_yellow_flags.gif)
+
+Finish ahead of the pack with JustPush! 
+
+![Finish flags](docs/finish.gif)
 
 ## Navigation
 - [Introduction](#introduction)
@@ -25,11 +42,13 @@ Watch the video of Active Buttons in action to win P1 in the pits!
 - [Credits](#credits)
 
 ## Introduction
-Transform your Stream Deck into the ultimate sim racing button box for ACC!
+_**Transform your Stream Deck into the ultimate sim racing button box!**_
 
-Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure buttons, manage pitstop fueling and pressure adjustments automatically—whether in the garage or on track—all at the push of a button. 
+Forget fuel and pressure worries pre-race and mid-race in ACC. With Auto Fuel and Auto Pressure buttons, just turn a few laps to lock in perfect fuel and pressures for optimized setups and pitstops, regardless of setup type, track conditions, or driving style! It adapts to YOU, the driver, and the conditions you're driving in real time. Effortlessly manage fueling and pressure adjustments automatically—whether in the garage or pitstop MFD—so you can _just push_ on track! 
 
-#### * **Don't Panic — Just Push!** *
+Forget dedicated flag buttons or flag overlays. Have all of your button icons and information available with integrated Flag Box, rendering flag colors underneath the icons, which has **never been done before** with Stream Deck button box solutions! 
+
+***Don't Panic — Just Push!***
 
 ### Plugin Highlights:
 - Active **Auto Fuel** and **Auto Pressure** buttons for effortless, perfect pitstops every time. 🤖🔧⛽
@@ -37,8 +56,6 @@ Forget fuel and pressure worries mid-race. With Auto Fuel and Auto Pressure butt
 - Zero-config, customizable, preloaded profiles and buttons with stunning icons ⭐
 - Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD at lightning speeds. ⏱️
 - Under constant development with community input, so you can help shape the future! 🚀
-
-![Yellow Flags Example](docs/yellow_flags.gif)
 
 ## How to Get it
 
@@ -49,6 +66,11 @@ Download the free version from the ~**Elgato Marketplace** (TBD)~ or in GitHub [
 Unlock additional features by joining the [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) and subscribe to [JustPush! Patreon](https://www.patreon.com/c/justpushsimracing/membership) to access member channels:
 - **Upgraded Tier**: €1/month
 - **Unlocked Tier**: €3/month
+___
+
+❄️ _**HOLIDAY SEASON SPECIAL**_ ❄️
+
+**JOIN JUSTPUSH! SIMRACING DISCORD BEFORE NEW YEARS TO ACCESS UNLOCKED TIER FOR FREE!**
 
 ## Installation
 Installing the JustPush! plugin and profiles is a breeze with Stream Deck's software.
@@ -56,7 +78,7 @@ Installing the JustPush! plugin and profiles is a breeze with Stream Deck's soft
 1. ~Install from Elgato MarketPlace (TBD)~
    Download the `com.justpush.streamDeckPlugin` plugin file; double-click it to install plugin
 3. Select `Install Profiles` to install the profiles, otherwise select `Cancel` to only install plugin
-4. Set hotkeys and configure buttons (see wiki)
+4. Set hotkeys and configure buttons (see [wiki on discord](https://discord.gg/thwjVvru6y))
 
 You're all set! Go on track and just push!  
    
@@ -78,7 +100,7 @@ Core features are available for free and are consistent across all tiers.
   - Driver aids (ABS/BB/TC/TCC), Lights, Wipers, Ignition/Starter, Pit Limiter, etc.
 - Multi-hotkey support for select controls:
   - Hazards (left+right signal), Wipers (auto-toggle rain lights)
-- Flag display button
+- Flag display button (dedicated flag button--not integrated flag box) 
 - Built-in macros for easily managing Pitstop MFD functions
   - User-defined fuel add/remove (incl. FULL and ZERO)
   - Select any/all tyres
@@ -102,7 +124,7 @@ Upgraded features are available for a modest €1/month, providing an entry poin
   - Access to more frequently released stable builds than Core tier
 
 ### Unlocked Tier
-Unlocked features include everything, now and forever into the future, providing complete access to the plugin’s capabilities for €3/month.
+Unlocked features include everything, now and forever into the future, providing complete access to the plugin’s capabilities for **ONLY** €3/month.
 
 - **Fully unlocked Active Buttons**, displaying and applying changes both in garage and on track.
 - **Integrated FlagBox**, which dynamnically renders the flag colors UNDER the icons—a first for Stream Deck!
@@ -113,12 +135,14 @@ Unlocked features include everything, now and forever into the future, providing
  
 ## Support and Community
 
+![Race Start](docs/P1.png)
+
 Join the [**JustPush! SimRacing Discord**](https://discord.com/invite/She54PX85k) to:
-- Get quick support from the developer and community
+- Get quick tips and support from the developer and community
 - Access a growing repository of shared profiles
 - Be the first to try new features and updates
 
-Check out the [plugin wiki](https://github.com/justpush-simracing/JustPush-Plugin/wiki) for every detail you could ever want, and then some! 
+Check out the [plugin wiki](https://discord.com/invite/thwjVvru6y) for every detail you could ever want, and then some! 
 
 If you have an issue, please report it in the [issue tracker](https://github.com/justpush-simracing/JustPush-Plugin/issues) so we can learn and improve the product for you! 
 
