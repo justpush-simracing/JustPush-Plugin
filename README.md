@@ -1,5 +1,3 @@
-
-
 ![Logo](docs/justpush_logo.jpg)
 
 # JustPush! Plugin for Stream Deck
