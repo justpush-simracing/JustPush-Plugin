@@ -7,7 +7,7 @@ _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRa
 
 **A revolutionary new plugin that will forever change the way you use your Stream Deck as a sim racing button box!**
 
-#### Experience the thrill of perfect, effortless setups and pitstops with **Active Buttons** as your race engineer... 
+#### Experience the thrill of perfect, effortless setups and pitstops with **Active Buttons** as your race engineer, with integrated tyre pressure and fuel calculators that do all the mental maths for you! 
 
 ![Active Buttons](docs/active_buttons_config2.png)
 
@@ -15,7 +15,7 @@ Watch the video of Active Buttons in action to win P1 in the pits!
 
 [![JustPush! Promo](docs/promo_video.png)](https://www.youtube.com/watch?v=J7OPt_Kinq0)
 
-But wait, there's more! A Stream Deck first--fully icon-integrated Flag Box! 
+But wait, there's more! A Stream Deck first--fully icon-integrated Flag Box! All packaged into perfect profiles, installed automatically with the plugin! 
 
 Stunning start up sequences...
 
@@ -60,7 +60,7 @@ Forget dedicated flag buttons or flag overlays. Have all of your button icons an
 ## How to Get it
 
 **Free Version**<br>
-Download the free version from the ~**Elgato Marketplace** (TBD)~ or in GitHub [Releases](https://github.com/justpush-simracing/JustPush-Plugin/releases) ➡️.
+Download the free version in GitHub [Releases](https://github.com/justpush-simracing/JustPush-Plugin/releases) ➡️.
 
 **Premium Versions** <br>
 Unlock additional features by joining the [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) and subscribe to [JustPush! Patreon](https://www.patreon.com/c/justpushsimracing/membership) to access member channels:
@@ -70,14 +70,13 @@ ___
 
 ❄️ _**HOLIDAY SEASON SPECIAL**_ ❄️
 
-**JOIN JUSTPUSH! SIMRACING DISCORD BEFORE NEW YEARS TO ACCESS UNLOCKED TIER FOR FREE!**
+**JOIN [JUSTPUSH! SIMRACING DISCORD](https://discord.com/invite/She54PX85k) BEFORE NEW YEARS FOR FREE ACCESS TO UNLOCKED!**
 
 ## Installation
 Installing the JustPush! plugin and profiles is a breeze with Stream Deck's software.
 
-1. ~Install from Elgato MarketPlace (TBD)~
-   Download the `com.justpush.streamDeckPlugin` plugin file; double-click it to install plugin
-3. Select `Install Profiles` to install the profiles, otherwise select `Cancel` to only install plugin
+1. Download the `com.justpush.streamDeckPlugin` plugin file from [Releases](https://github.com/justpush-simracing/JustPush-Plugin/releases); double-click it to install plugin
+3. Select `Install Profiles` to install the profiles (highly recommended for first installation), otherwise select `Cancel` to only install plugin (recommended for plugin updates only)
 4. Set hotkeys and configure buttons (see [wiki on discord](https://discord.gg/thwjVvru6y))
 
 You're all set! Go on track and just push!  
