@@ -3,29 +3,27 @@
 # JustPush! Plugin for Stream Deck
 _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRacing_
 
-**A revolutionary new plugin that will forever change the way you use your Stream Deck as a sim racing button box!**
+**A revolutionary new plugin that will forever change the way you use your Stream Deck as a sim racing button box!** 
 
-#### Experience the thrill of perfect, effortless setups and pitstops with **Active Buttons** as your race engineer, with integrated tyre pressure and fuel calculators that do all the mental maths for you! 
+### Plugin Highlights ([full features here](#features))
+- Active **Auto Fuel** and **Auto Pressure** buttons for effortless, perfect pitstops/setups every time. 🤖🔧⛽
+- First ever fully integrated **Flag Box**, dynamically rendering button icon backgrounds. 🏁
+- Zero-config, customizable, preloaded profiles and multi-state buttons with stunning hotkey icons ⭐
+- Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD at lightning speeds. ⏱️
+- Under constant development with community input, so you can help shape the future! 🚀
 
-![Active Buttons](docs/active_buttons_config2.png)
+Experience the thrill of precise, effortless setups and pitstops with **Active Buttons** as your race engineer, with live tyre pressure and fuel calculators that do all the mental maths--and make the changes--for you! 
 
 Watch the video of Active Buttons in action to win P1 in the pits! 
+***Don't Panic — Just Push!***
 
 [![JustPush! Promo](docs/promo_video.png)](https://www.youtube.com/watch?v=J7OPt_Kinq0)
 
-But wait, there's more! A Stream Deck first--fully icon-integrated Flag Box! All packaged into perfect profiles, installed automatically with the plugin! 
+But wait, there's more...a Stream Deck first! **Fully icon-integrated Flag Box!** 
 
-Stunning start up sequences...
+All of this and more is packaged into pre-configured profiles, installed automatically with the plugin in seconds. 
 
-![Start Up](docs/startup.gif)
-
-All race flags with no information loss...
-
-![Race flags](docs/blue_yellow_flags.gif)
-
-Finish ahead of the pack with JustPush! 
-
-![Finish flags](docs/finish.gif)
+**Unlock your driving potential with JustPush now!**
 
 ## Navigation
 - [Introduction](#introduction)
@@ -42,18 +40,27 @@ Finish ahead of the pack with JustPush!
 ## Introduction
 _**Transform your Stream Deck into the ultimate sim racing button box!**_
 
-Forget fuel and pressure worries pre-race and mid-race in ACC. With Auto Fuel and Auto Pressure buttons, just turn a few laps to lock in perfect fuel and pressures for optimized setups and pitstops, regardless of setup type, track conditions, or driving style! It adapts to YOU, the driver, and the conditions you're driving in real time. Effortlessly manage fueling and pressure adjustments automatically—whether in the garage or pitstop MFD—so you can _just push_ on track! 
+Forget fuel and pressure worries pre-race and mid-race in ACC. With Auto Fuel and Auto Pressure buttons, just turn a few laps to lock in perfect fuel and pressures for optimized setups and pitstops _within seconds_, regardless of setup type, track conditions, or driving style! 
+
+The optimal values adapt to YOU, the driver, and the conditions you're driving in real time. Effortlessly manage fueling and pressure adjustments automatically—whether in the garage or pitstop MFD—so you can _just push_ on track! 
+
+![auto fuel demo](docs/auto_fuel_demo.gif)
+![auto pressure demo](docs/auto_pressure_demo.gif)
+![auto setup demo](docs/auto_setup_demo.gif)
 
 Forget dedicated flag buttons or flag overlays. Have all of your button icons and information available with integrated Flag Box, rendering flag colors underneath the icons, which has **never been done before** with Stream Deck button box solutions! 
 
-***Don't Panic — Just Push!***
+Stunning start up sequences...
 
-### Plugin Highlights:
-- Active **Auto Fuel** and **Auto Pressure** buttons for effortless, perfect pitstops every time. 🤖🔧⛽
-- First ever fully integrated **Flag Box**, dynamically rendering button icon backgrounds. 🏁
-- Zero-config, customizable, preloaded profiles and buttons with stunning icons ⭐
-- Robust, built-in macros to simplify and automate navigation of ACC UI and Pitstop MFD at lightning speeds. ⏱️
-- Under constant development with community input, so you can help shape the future! 🚀
+![Start Up](docs/startup.gif)
+
+All race flags with no information loss...
+
+![Race flags](docs/blue_yellow_flags.gif)
+
+Finish ahead of the pack with JustPush! 
+
+![Finish flags](docs/finish.gif)
 
 ## How to Get it
 
