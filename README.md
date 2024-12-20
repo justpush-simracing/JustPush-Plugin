@@ -101,6 +101,8 @@ You're all set! Go on track and just push!
 - Fully color-customizable icons (borders, activation backgrounds)
 - Smart `open/close profile` buttons for effortless track and pitstop profile navigation
 - **Active Buttons** for auto fuel and auto pressure, displaying and applying optimal changes both in garage and on track
+   - Auto Fuel: Real-time fuel calculator and more! Use Manual mode to specify a length, or let Dynamic mode do everything for you! 
+   - Auto Pressure: Real-time pressure calculator and more! Nail your pitstop and/or setup tyre pressures every single time with a single push of a button! 
 - **Integrated FlagBox**, which dynamnically renders the flag colors UNDER the icons—a first for Stream Deck!
 
 - Join the [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) for:
