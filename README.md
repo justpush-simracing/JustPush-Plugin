@@ -82,6 +82,10 @@ Installing the JustPush! plugin and profiles is a breeze with Stream Deck's soft
 4. Confirm hotkeys and configure buttons (see [wiki on discord](https://discord.gg/thwjVvru6y))
 
 You're all set! Go on track and just push!  
+
+[![JustPush! Install Guide](docs/install_guide.png)](https://www.youtube.com/watch?v=udg-N7g1KsI)
+
+Please also watch our Install Guide video for this and more info! 
    
 ## Features
 
