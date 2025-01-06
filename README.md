@@ -1,6 +1,6 @@
 ![Logo](docs/justpush_logo.jpg)
 
-[![Discord](docs/Discord-25.png)](https://discord.com/invite/She54PX85k) &emsp; [![Youtube](docs/Youtube-25.png)](https://www.youtube.com/@justpushsimracing) &emsp; [![Tiktok](docs/Tiktok-25.png)](https://www.tiktok.com/@justpushsimracing) &emsp; [![Instagram](docs/IG-25.png)](https://www.instagram.com/justpushsimracing/) &emsp; [![Patreon](docs/Patreon-25.png)](https://www.patreon.com/justpushsimracing) 
+[![Discord](docs/Discord-25.png)](https://discord.gg/tew2neKXNw) &emsp; [![Youtube](docs/Youtube-25.png)](https://www.youtube.com/@justpushsimracing) &emsp; [![Tiktok](docs/Tiktok-25.png)](https://www.tiktok.com/@justpushsimracing) &emsp; [![Instagram](docs/IG-25.png)](https://www.instagram.com/justpushsimracing/) &emsp; [![Patreon](docs/Patreon-25.png)](https://www.patreon.com/justpushsimracing) 
 
 # JustPush! Plugin for Stream Deck
 _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRacing_
@@ -66,7 +66,7 @@ Finish ahead of the pack with JustPush!
 
 Download latest stable release from GitHub [**Releases**](https://github.com/justpush-simracing/JustPush-Plugin/releases) ➡️
 
-Get new releases sooner by joining the [**JustPush! SimRacing Discord**](https://discord.com/invite/She54PX85k).
+Get new releases sooner by joining the [**JustPush! SimRacing Discord**](https://discord.gg/tew2neKXNw).
 
 ## What is the cost?
 
@@ -109,7 +109,7 @@ Please also watch our Install Guide video for this and more info!
    - Auto Pressure: Real-time pressure calculator and more! Nail your pitstop and/or setup tyre pressures every single time with a single push of a button! 
 - **Integrated FlagBox**, which dynamnically renders the flag colors UNDER the icons—a first for Stream Deck!
 
-- Join the [JustPush! SimRacing Discord](https://discord.com/invite/She54PX85k) for:
+- Join the [JustPush! SimRacing Discord](https://discord.gg/tew2neKXNw) for:
   - Fast support from community/developer
   - First access to new release builds
   - Early/beta access to pre-release builds
@@ -119,7 +119,7 @@ Please also watch our Install Guide video for this and more info!
 
 ![Race Start](docs/P1.png)
 
-Join the [**JustPush! SimRacing Discord**](https://discord.com/invite/She54PX85k) to:
+Join the [**JustPush! SimRacing Discord**](https://discord.gg/tew2neKXNw) to:
 - Get quick tips and support from the developer and community
 - Access a growing repository of shared profiles
 - Be the first to try new features and updates
