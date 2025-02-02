@@ -1,7 +1,6 @@
 ![Logo](docs/justpush_logo.jpg)
 
-[![Discord](docs/Discord-25.png)](https://discord.gg/tew2neKXNw) &emsp; [![Youtube](docs/Youtube-25.png)](https://www.youtube.com/@justpushsimracing) &emsp; [![Tiktok](docs/Tiktok-25.png)](https://www.tiktok.com/@justpushsimracing) &emsp; [![Instagram](docs/IG-25.png)](https://www.instagram.com/justpushsimracing/) &emsp; [![Patreon](docs/Patreon-25.png)](https://www.patreon.com/justpushsimracing) 
-
+[![Marketplace](docs/marketplace-light.png)](https://marketplace.elgato.com/product/justpush-a5096b0b-4d56-40bf-acbc-8cd4c33c545a) &emsp; [![Discord](docs/Discord-25.png)](https://discord.gg/tew2neKXNw) &emsp; [![Youtube](docs/Youtube-25.png)](https://www.youtube.com/@justpushsimracing) &emsp; [![Tiktok](docs/Tiktok-25.png)](https://www.tiktok.com/@justpushsimracing) &emsp; [![Instagram](docs/IG-25.png)](https://www.instagram.com/justpushsimracing/) &emsp; [![Patreon](docs/Patreon-25.png)](https://www.patreon.com/justpushsimracing) 
 # JustPush! Plugin for Stream Deck
 _Currently supported title: ACC | Planned supported titles: AC, AC Evo, LMU, iRacing_
 
