@@ -132,6 +132,7 @@ If you have an issue, please report it in the [issue tracker](https://github.com
 |----------|----------|----------|
 |✅| Q1-Q3 2024 | Integrated test and development|
 |✅| Q4 2024 | Closed beta test / Initial Release|
+|✅| Q1 2025 | Publish on Elgato Marketplace|
 |⬜| Q1 2025 | Integrate AC & AC Evo|
 |⬜| Q1/2 2025 | Integrate LMU & iRacing|
 |⬜| Q3 2025 | Launch JustPush! Web Dash|
