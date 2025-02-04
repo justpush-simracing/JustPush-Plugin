@@ -63,9 +63,19 @@ Finish ahead of the pack with JustPush!
 
 ## How to Get it
 
-Download latest stable release from GitHub [**Releases**](https://github.com/justpush-simracing/JustPush-Plugin/releases) ➡️
+You have a few options depending on what suits your preferences. The recommendation to 'set it and forget it' is to download from Marketplace, and if you want the latest as soon as it drops, then download from Discord.
 
-Get new releases sooner by joining the [**JustPush! SimRacing Discord**](https://discord.gg/tew2neKXNw).
+1. Get it directly from [**Elgato Marketplace**](https://marketplace.elgato.com/product/justpush-a5096b0b-4d56-40bf-acbc-8cd4c33c545a). Note: You must have an Elgato Marketplace account (worth it).
+   - Pro: Stays updated automatically.
+   - Con: Will be up to two weeks delayed from newest release.
+
+2. Download latest stable release from GitHub [**Releases**](https://github.com/justpush-simracing/JustPush-Plugin/releases).
+   - Pro: Update stable builds when you want.
+   - Con: No notification of updates (must check manually); up to a week delayed from newest release. 
+
+3. Get new releases sooner by joining the [**JustPush! SimRacing Discord**](https://discord.gg/tew2neKXNw).
+   - Pro: Beta and newest stable releases are here first, with notifications.
+   - Con: Manual updates required. 
 
 ## What is the cost?
 
